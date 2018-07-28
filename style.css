@@ -1,0 +1,43 @@
+h1 {
+text-align: center;
+padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 80px;
+background-color: #C1B7BA;
+}
+
+table, th, td {
+    border: 1px solid #091324;
+    border-collapse: collapse;
+    
+}
+
+th, td {
+    padding: 25px;
+}
+
+body {
+    background-color: #78839D;
+    margin: 25px 500px 1000px;
+
+}
+
+#total {
+    float: right;
+}
+#main {
+    font-size: 25px;
+}
+
+input {
+    height:25px;
+    width: 35px;
+    padding-right:40px;
+    border: solid;
+}
+button {
+    float: right;
+   
+
+}
